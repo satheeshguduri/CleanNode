@@ -1,0 +1,19 @@
+{
+  "name": "cleannode",
+  "version": "1.0.0",
+  "description": "clean arch for node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satheeshguduri/CleanNode.git"
+  },
+  "author": "satheeshg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satheeshguduri/CleanNode/issues"
+  },
+  "homepage": "https://github.com/satheeshguduri/CleanNode#readme"
+}
