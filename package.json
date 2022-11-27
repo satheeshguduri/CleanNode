@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/satheeshguduri/CleanNode/issues"
   },
-  "homepage": "https://github.com/satheeshguduri/CleanNode#readme"
+  "homepage": "https://github.com/satheeshguduri/CleanNode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
